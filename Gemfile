@@ -43,3 +43,5 @@ group :test do
 end
 
 gem "suspenders", group: [:development, :test]
+
+gem 'rack-mini-profiler', require: false
